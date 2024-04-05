@@ -1,4 +1,5 @@
-Sistema de Agência de Viagens
+Sistema de Agência de Viagens.
+
 Este projeto consiste em um sistema desenvolvido em Java para uma agência de viagens. O sistema é capaz de registrar pacotes de viagens e dados de vendas. Cada pacote de viagens é composto por meio de transporte e hospedagem, onde cada meio de transporte possui um tipo e um valor, e cada hospedagem possui uma descrição e um valor de diária. Os valores dos pacotes de viagem são calculados a partir dos valores do transporte e da hospedagem, somados a uma margem de lucro e taxas adicionais.
 
 Funcionalidades
@@ -21,7 +22,7 @@ Para executar o sistema, é necessário utilizar o NetBeans ou qualquer outra ID
 Após a execução do sistema, será possível interagir com o usuário para cadastrar pacotes de viagens e realizar vendas, conforme as funcionalidades descritas.
 
 Autor
-Este projeto foi desenvolvido por [Matheus Leal].
+Este projeto foi desenvolvido por Matheus Leal.
 
 Licença
 Este projeto está licenciado sob a Licença MIT, o que significa que você pode usar, modificar e distribuir o código livremente, desde que mantenha o aviso de direitos autorais e a licença original.
